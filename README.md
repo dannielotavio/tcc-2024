@@ -11,15 +11,14 @@ O estudo realizado teve como fundamentação teórica a problematização social
 visando principalmente a ajudá-las devido a formação incompleta do corpo, para a concepção de um bebê.
 
 
-IMG exemplo readme
+Preparação Para Inicio do Projeto:
 
-Preparação Para Inicio do Projeto
-
-
+A configuração Inicial do prejeto é de suma importância para a execução do projeto em sua forma mais eficaz, segue abaixo os requisitos nexessários para a inicição do 
+trabalho Your Pregnancy:
 
 Pré Requisitos:
 
-HTML5  |  CSS5  |  Xampp  |  PHP 8.1.2
+HTML5  |  CSS5  |  Xampp  |  PHP 8.1.2   | Boostrap 5.3   |  Xampp  8.1.25
 
 Iniciação do Projeto:
 
