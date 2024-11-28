@@ -58,3 +58,15 @@ a baixo alguns exemplos
 
 
 <h2>Como citar o Projeto </h2>
+
+Referência:
+
+YOUR PREGNANCY. Your pregnancy:
+A guide to every gestation. Campo Limpo Paulista: ETEC de Campo Limpo Paulista, Curso Técnico emInformática para Internet: (link github) DOI: 10.1234/etec.campolimpo.yourpregnancy.2024. Acesso em: xx (mês). 20xx.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/37e0fdc6-fefe-4ddc-abbc-297f3247bb17)
+
+<br>
+<br>
