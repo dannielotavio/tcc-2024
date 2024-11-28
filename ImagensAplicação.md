@@ -156,4 +156,4 @@ Em tese, esses são os nossos tipos de usuário, e as principais funcionalidades
 <br>
 <br>
 
-Aqui estão as principais funcionalidades da aplicação, se tiver interesse em ver de perto a aplicação acesse: (link git)
+Aqui estão as principais funcionalidades da aplicação, se tiver interesse em ver de perto a aplicação acesse: (https://github.com/dannielotavio/tcc-2024/blob/main/execucao-projeto.md) 
