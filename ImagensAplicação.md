@@ -1,3 +1,5 @@
+<h1>Imagens da aplicação web</h1>
+
 Aqui é onde você pode ter uma pré-visualização e já criar uma expectativa sobre a aplicação web
 do trabalho Your Pregnancy.
 <br>
@@ -8,7 +10,11 @@ Confira Algumas Páginas, a primeira delas, a nosso Home (já mostrado no readme
 ![image](https://github.com/user-attachments/assets/17ff189b-75e3-4119-b25c-ac55f35db503)
 
 
-A seguir, vamos conferir algumas das pricipais páginas da aplicação:
+
+<br>
+<h1>Funcionalidades Usuário Comum</h1>
+<br>
+A seguir, vamos conferir algumas das pricipais páginas da aplicação como um usuário comum:
 <br>
 <br>
 
@@ -88,7 +94,31 @@ As abas de 'Mãe' e 'Bebê', são páginas informátivas para um auxílio e um c
 
 ![image](https://github.com/user-attachments/assets/ed07b2ee-9c82-4bf9-82f5-dc3d98939769)
 
+<br>
+<br>
 
 E para a integração e fidelização do usuário, criamos um sistema de cadastro e login funcional, (já apresentados no readme)
 porém com o Intuito de que essa fidelização seja perceptível para o usuário a ideia e o incentivo do YourPregnancy, que é ser esta rede de apoio que as mães adolescentes por muitas vezes não tem, e por isso que foi criada esta fidelização.
 
+<h3>Inicio - cadastro:</h3>
+<br>
+
+![image](https://github.com/user-attachments/assets/7f53a10b-3241-4c1f-bf3c-b9d942e92385)
+
+<br>
+<h3>Página de Cadastro:</h3>
+<br>
+
+![image](https://github.com/user-attachments/assets/12732b2a-ef4a-46cc-bad4-415590fab959)
+
+<br>
+<h3>Página de Login: </h3>
+<br>
+
+![image](https://github.com/user-attachments/assets/31e1cc85-7342-4ee7-a283-b22a08da215f)
+
+<br>
+
+<h2>Usuário Admin</h2>
+
+Aqui estão as principais funcionalidades da aplicação, se tiver interesse em ver de perto a aplicação acesse: (link git)
