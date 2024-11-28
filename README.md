@@ -74,4 +74,4 @@ A guide to every gestation. Campo Limpo Paulista: ETEC de Campo Limpo Paulista, 
 <br>
 <br>
 
-<h4>Esta é uma análise breve do trabalho YourPregancy, confira as outras áreas do repostório para saber maais!</h4>
+<h4>Esta é uma análise breve do trabalho YourPregancy, confira as outras áreas do repostório para saber mais!</h4>
