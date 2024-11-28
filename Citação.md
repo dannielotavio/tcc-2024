@@ -1,9 +1,14 @@
 Como citar o projeto:
 
+<br>
+
 Citação Direta:
 
 De acordo como trabalho Your Pregnancy, "o acompnhamento adequado durante a gestação pode reduzir os riscos tanto para a mãe, 
 quanto para o Bebê, promevendo um desenvolvimento saudável em todas as etapas" (Your Pregnancy,2024,p.xx)
+Veja um exemplo:
+
+
 
 
 
