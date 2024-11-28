@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/f58868cf-356d-48ee-9411-f1b862586e58)
 
 
-<h2>Sobre:</h2> 🎯
+<h2>Sobre:</h2>
 
 O estudo realizado teve como fundamentação teórica a problematização social, enfrentada por mães adolescentes e de primeira viagem
 visando principalmente a ajudá-las devido a formação incompleta do corpo, para a concepção de um bebê.
