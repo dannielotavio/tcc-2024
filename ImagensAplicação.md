@@ -121,4 +121,10 @@ porém com o Intuito de que essa fidelização seja perceptível para o usuário
 
 <h2>Usuário Admin</h2>
 
+
+Em tese, o usuário admin tem todas as funcionalidades do=usuário comum, como o registro de conclusão de tarefas das semanas, a visualizão livre das págonas quando logado, mas, com um adendo: a exclusão de usuários.
+veja agora a tela do admin, ao excluir um usuário:
+
+//img exclusão do usuário
+
 Aqui estão as principais funcionalidades da aplicação, se tiver interesse em ver de perto a aplicação acesse: (link git)
