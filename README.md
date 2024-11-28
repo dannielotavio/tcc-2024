@@ -66,6 +66,9 @@ A guide to every gestation. Campo Limpo Paulista: ETEC de Campo Limpo Paulista, 
 
 <br>
 
+
+Esta é uma análise breve, confira as outras áreas do repostório
+
 ![image](https://github.com/user-attachments/assets/37e0fdc6-fefe-4ddc-abbc-297f3247bb17)
 
 <br>
