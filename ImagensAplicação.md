@@ -88,3 +88,7 @@ As abas de 'Mãe' e 'Bebê', são páginas informátivas para um auxílio e um c
 
 ![image](https://github.com/user-attachments/assets/ed07b2ee-9c82-4bf9-82f5-dc3d98939769)
 
+
+E para a integração e fidelização do usuário, criamos um sistema de cadastro e login funcional, (já apresentados no readme)
+porém com o Intuito de que essa fidelização seja perceptível para o usuário a ideia e o incentivo do YourPregnancy, que é ser esta rede de apoio que as mães adolescentes por muitas vezes não tem, e por isso que foi criada esta fidelização.
+
