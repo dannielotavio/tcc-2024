@@ -32,7 +32,9 @@ veja um exemplo abaixo:
 <br>
 Na 'barra de navegação' da aplicação, existe a parte 'Semanas', aonde o usuário pode escolher qual a 
 semana que ela deseja ver as informações e dicas daquela determinada semana.
+
 <br>
+
 ![image](https://github.com/user-attachments/assets/c48d098c-0f06-4e16-8bf0-8a5f1e4d5c0e)
 
 
@@ -41,9 +43,11 @@ E dentro das semanas, você pode ver quais as informações daquela semana, indo
 41 de gestação.
 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/a65b2234-a253-4b81-bf32-f605215bea7c)
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/5cafb106-8ab2-4540-86e8-7565d0e5a7be)
 
 
@@ -56,20 +60,31 @@ Mulheres gestantes a cada semana tem exames, consultas, ultrassons, regulção d
 pensando nisso, produzimos um "check-in" daquela determinada semana, aonde o usuário, quando cadastrado, pode voltar naquela semana q colocar os afazeres feitos naquela semana.
 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/53064fb8-3ec5-43f4-a5b9-4468252c8f42)
+
 
 <br>
 <h2>Mãe e Bebê</h2>
 <br>
 <br>
+
 As abas de 'Mãe' e 'Bebê', são páginas informátivas para um auxílio e um conforto para o nosso usuário, por isso eles são temas mais "leves" e de fácil legibilidade.
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/f8d602cb-89eb-4ac1-a9e0-8d99d296e2c6)
+
+![image](https://github.com/user-attachments/assets/4e46df04-eaad-45df-b741-8ed680ba5d49)
+
+
 
 <br>
+<br>
+<br>
+
 ![image](https://github.com/user-attachments/assets/90bd9187-22c2-4b75-991d-4660bfaa5883)
 
 <br>
+<br>
+
 ![image](https://github.com/user-attachments/assets/ed07b2ee-9c82-4bf9-82f5-dc3d98939769)
 
