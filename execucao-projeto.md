@@ -56,7 +56,7 @@ inicie o xampp, e inicie o apache e o php-my-admin
 3° passo:
 
 <br>
-Adicione o banco de dados, que está na pasta 'arquivos-execucao', no php-my-admin, para que a base dados esteja ativa.
+Adicione o banco de dados, que está na pasta 'banco (1) (1).sql', no php-my-admin, para que a base dados esteja ativa.
 
 <br>
 
@@ -88,7 +88,7 @@ explorador de arquivos-> este computador -> disco local (c:) -> xampp -> htdocs 
 
 <br>
 
-Abra o visual studio code, vá em abrir pasta, e faça o mesmo trajeto do passo anterior.
+Abra o visual studio code, vá em abrir pasta, e faça o mesmo trajeto do passo anterior, porém selecione o arquivo 'site-tcc-pronto-git' dentro da pasta htdocs..
 
 <br>
 
